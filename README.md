@@ -40,8 +40,5 @@ El péndulo invertido es un sistema clásico de control automático donde un pé
 - Arduino IDE (configurado para ESP32).
 - Biblioteca `PIDController` (incluida).
 
-## Instalación
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/Gabrielbgmp/Teoria-de-control.git
+
